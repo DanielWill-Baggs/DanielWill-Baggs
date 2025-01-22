@@ -37,7 +37,7 @@
 
 - 🌱 I’m currently learning **about Ai Models and Data Manipulation.**
 
-- 👨‍💻 All of my projects are available at [WIP](WIP)
+<!--- 👨‍💻 All of my projects are available at [WIP](WIP) !--->
 
 - ⚡ Fun fact **I have been apart of an ongoing D&D campaign lasting over 7 years!**
 
