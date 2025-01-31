@@ -29,8 +29,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=danielwill-baggs&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="center">🏆 Git Trophies</h3>
-
+<h3 align="center">👀  Stats </h3>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielwill-baggs&show_icons=true&locale=en&layout=compact" alt="danielwill-baggs" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielwill-baggs&" alt="danielwill-baggs" /></p>
 
 <h3 align="center"> 💤 TLDR: </h3>
@@ -112,7 +112,6 @@
 
 
 
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielwill-baggs&show_icons=true&locale=en&layout=compact" alt="danielwill-baggs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielwill-baggs&show_icons=true&locale=en" alt="danielwill-baggs" /></p> -->
+
+<!--- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielwill-baggs&show_icons=true&locale=en" alt="danielwill-baggs" /></p> ---!>
