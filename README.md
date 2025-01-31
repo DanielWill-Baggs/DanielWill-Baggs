@@ -17,7 +17,7 @@
                                  \/__/         \/__/         \/__/     \/__/     \/__/    
 </pre>
 
-<h3 align="center">🤝 Socials:</h3>
+<h3 align="center">🤝 Socials</h3>
 <p align="center">
 <a href="https://linkedin.com/in/daniel-baggs-76b349233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-baggs-76b349233" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/danielwill-baggs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="danielwill-baggs" height="30" width="40" /></a>
@@ -33,7 +33,7 @@
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielwill-baggs&show_icons=true&locale=en&layout=compact" alt="danielwill-baggs" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielwill-baggs&" alt="danielwill-baggs" /></p>
 
-<h3 align="center"> 💤 TLDR: </h3>
+<h3 align="center"> 💤 TLDR </h3>
 
 - 🌱 I’m currently learning **about Ai Models and Data Manipulation.**
 
